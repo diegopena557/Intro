@@ -7,7 +7,7 @@ st.header ("Hola alguno sabe programar C++")
 
 image = Image.open('Waltuh.jpg')
 
-st.image(image, caption = 'Interfaces multimodales')
+st.image(image, caption = 'Waltuh')
 
 
 texto = st.text_input('Escribe algo', 'Este es mi texto')
